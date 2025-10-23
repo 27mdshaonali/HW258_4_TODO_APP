@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6A7CFF</color>
+    <color name="background">#FFFFFFFF</color> <!-- White -->
+    <color name="primary_text">#FF000000</color> <!-- Black -->
+    <color name="secondary_text">#8A000000</color> <!-- Gray -->
+    <color name="accent">#FF4081</color> <!-- Pink (Brand Color) -->
+
+    <!-- Product Card -->
+    <color name="card_background">#FFF5F5F5</color> <!-- Light Gray -->
+    <color name="card_background2">#121212</color> <!-- Light Gray -->
+    <color name="original_price">#8A000000</color> <!-- Gray -->
+    <color name="discounted_price">#4CAF50</color> <!-- Green -->
+    <color name="button_background">#FF4081</color> <!-- Pink -->
+    <color name="cart_text_color">#FFFFFFFF</color>
+
+
+
+    <!-- 🌞 Light Theme Colors -->
+
+    <color name="blood_color">#F44336</color>
+
+    <!-- Branding Colors -->
+    <color name="colorPrimary">#2196F3</color> <!-- Fresh Blue for toolbar, buttons -->
+    <color name="colorPrimaryVariant">#1976D2</color> <!-- Slightly darker variant -->
+    <color name="colorAccent">#00BCD4</color> <!-- Soft Aqua for highlights -->
+
+    <!-- Backgrounds -->
+    <color name="colorBackground">#F5F5F5</color> <!-- Main app background -->
+    <color name="appImageColorBackground">#F0F0F0</color> <!-- Main app background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- Card or input background -->
+    <color name="colorSurface2">#FFFFFF</color> <!-- Card or input background -->
+
+    <!-- Text -->
+    <color name="textPrimary">#212121</color> <!-- For main text -->
+    <color name="textSecondary">#757575</color> <!-- For subtext, placeholders -->
+
+    <!-- Status Indicators -->
+    <color name="colorSuccess">#4CAF50</color> <!-- Paid, successful orders -->
+    <color name="colorError">#D32F2F</color> <!-- Cancelled orders or errors -->
+
+    <!-- Button text -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- Light text on colored buttons -->
+
+
+
+
+    <!-- ✅ Primary button: Used for important actions like "Place Order", "Submit", "Pay Now" -->
+    <color name="btn_primary">#4CAF50</color> <!-- Green -->
+
+    <!-- 📘 Secondary button: Used for supportive actions like "Login", "View Orders", "Sign Up" -->
+    <color name="btn_secondary">#03A9F4</color> <!-- Blue -->
+
+    <!-- ❌ Cancel button: Used for destructive actions like "Cancel Order" -->
+    <color name="btn_cancel">#F44336</color> <!-- Red -->
+
+    <!-- 🚫 Disabled button: Used when a button should be inactive (e.g., empty input fields) -->
+    <color name="btn_disabled">#BDBDBD</color> <!-- Gray -->
+
+    <!-- 🆎 Button text: Always white to ensure readability on colored buttons -->
+    <color name="btn_text">#FFFFFF</color> <!-- White -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_200">#FFEEEEEE</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="gold">#FFFFD700</color>
+    <color name="gold_light">#33FFD700</color>
+
+    <color name="top_of_appbar">#156CC1</color>
+    <color name="toolbar">#1976D2</color>
+
+<!--    <color name="top_of_appbar">#0E5DAB</color>-->
+<!--    <color name="toolbar">#1976D2</color>-->
+    <color name="toolbar_text">#ffffff</color>
+
+    <color name="todo_completed_bg">#E6F8E6</color> <!-- Light green -->
+    <color name="todo_pending_bg">#FFEAEA</color>   <!-- Light red -->
+
+</resources>

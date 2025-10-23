@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/inputTodoText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter todo task"
+            android:inputType="textCapSentences" />
+
+        <EditText
+            android:id="@+id/inputUserId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="User ID (number)"
+            android:inputType="number"
+            android:layout_marginTop="8dp" />
+
+        <CheckBox
+            android:id="@+id/inputCompleted"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mark as Completed"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+</ScrollView>

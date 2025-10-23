@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#667aff</color>
+    <color name="background">#FF121212</color> <!-- Dark Gray -->
+    <color name="primary_text">#FFFFFFFF</color> <!-- White -->
+    <color name="secondary_text">#BBBBBB</color> <!-- Light Gray -->
+    <color name="accent">#FF80AB</color> <!-- Lighter Pink -->
+
+    <!-- Product Card -->
+    <color name="card_background">#FF1E1E1E</color> <!-- Dark Card -->
+    <color name="card_background2">#FFF5F5F5</color> <!-- Light Gray -->
+    <color name="original_price">#BBBBBB</color> <!-- Light Gray -->
+    <color name="discounted_price">#81C784</color> <!-- Soft Green -->
+    <color name="button_background">#FF80AB</color> <!-- Lighter Pink -->
+    <color name="cart_text_color">#FFFFFFFF</color>
+
+
+    <color name="blood_color">#E93A3A</color>
+
+
+
+    <!-- 🌚 Dark Theme Colors -->
+
+    <!-- Branding Colors -->
+    <color name="colorPrimary">#64B5F6</color> <!-- Lighter blue for dark backgrounds -->
+    <color name="colorPrimaryVariant">#1976D2</color>
+    <color name="colorAccent">#4DD0E1</color> <!-- Teal highlight -->
+
+    <!-- Backgrounds -->
+    <color name="colorBackground">#121212</color> <!-- Main dark background -->
+    <color name="appImageColorBackground">#282727</color> <!-- Main dark background -->
+    <color name="colorSurface">#1E1E1E</color> <!-- Cards or dialogs -->
+    <color name="colorSurface2">#9E9E9E</color> <!-- Cards or dialogs -->
+
+    <!-- Text -->
+    <color name="textPrimary">#FFFFFF</color> <!-- White main text -->
+    <color name="textSecondary">#B0BEC5</color> <!-- Dimmed/secondary text -->
+
+    <!-- Status Indicators -->
+    <color name="colorSuccess">#81C784</color>
+    <color name="colorError">#EF5350</color>
+
+    <!-- Button text -->
+    <color name="colorButtonText">#000000</color> <!-- Black on light-colored buttons -->
+
+
+
+
+
+
+    <!-- ✅ Primary button: "Place Order", "Submit", "Pay Now" -->
+    <color name="btn_primary">#81C784</color> <!-- Soft Green -->
+
+    <!-- 📘 Secondary button: "Login", "View Orders", "Sign Up" -->
+    <color name="btn_secondary">#4FC3F7</color> <!-- Soft Blue -->
+
+    <!-- ❌ Cancel button: "Cancel Order" -->
+    <color name="btn_cancel">#E57373</color> <!-- Soft Red -->
+
+    <!-- 🚫 Disabled button -->
+    <color name="btn_disabled">#616161</color> <!-- Dark Gray -->
+
+    <!-- 🆎 Button text -->
+    <color name="btn_text">#FFFFFF</color> <!-- White -->
+
+
+    <color name="top_of_appbar">#156CC1</color>
+    <color name="toolbar">#1976D2</color>
+    <color name="toolbar_text">#ffffff</color>
+
+</resources>
